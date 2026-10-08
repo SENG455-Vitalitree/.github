@@ -23,7 +23,7 @@ To maintain clean project hygiene and clear ownership across teams, issues adher
 
 ### 1. Title Formatting
 
-Issues must follow the `[VDEV-XXX]` ticket naming convention:
+Development issues must follow the `[VDEV-XXX]` ticket naming convention:
 
 `[VDEV-XXX] [Area/Category] Brief, descriptive title`
 
