@@ -9,7 +9,7 @@ Welcome to the **Vitalitree** organization on GitHub. Vitalitree is a modern, ac
 All active planning, backlogs, and roadmaps are organized centrally across our organization:
 
 * **[Organization Projects Board](https://github.com/orgs/SENG455-Vitalitree/projects)**  
-  Track progress across sprints, backlogs, in-progress items, and reviews.
+  Track progress across sprints, backlogs, in-progress items, and reviews. 
 * **[Active Dev Issues (Vitalitree-App)](https://github.com/SENG455-Vitalitree/Vitalitree-App/issues)**  
   View, filter, and report bug fixes, feature requests, and architectural tasks for the client application.
 * **[Milestones & Deliverables](https://github.com/SENG455-Vitalitree/Milestones)**  
