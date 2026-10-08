@@ -14,6 +14,8 @@ All active planning, backlogs, and roadmaps are organized centrally across our o
   View, filter, and report bug fixes, feature requests, and architectural tasks for the client application.
 * **[Milestones & Deliverables](https://github.com/SENG455-Vitalitree/Milestones)**  
   Documentation and project deliverables repository.
+* **[Vitalitree App](https://github.com/SENG455-Vitalitree/Vitalitree-App)**
+  Contains the code as well as instructions on how to run it.
 
 ---
 
