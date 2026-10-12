@@ -55,9 +55,7 @@ Each issue must be tagged with at least one **Area** label and one **Type** labe
 
 ---
 
-## 👕 Effort & Story Estimation (Coming Soon)
-
-In future sprint planning cycles, issues will include **T-Shirt Size Estimation** labels to estimate effort and scope before sprint commitment:
+## 👕 Effort & Story Estimation 
 
 | Size | Effort / Scope | Typical Duration |
 | :--- | :--- | :--- |
