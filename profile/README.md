@@ -57,7 +57,15 @@ Each issue must be tagged with at least one **Area** label and one **Type** labe
 
 ## 👕 Effort & Story Estimation (Coming Soon)
 
-In future sprint planning cycles, issues will include **T-Shirt Size Estimation** labels to estimate effort and scope before sprint commitment.
+In future sprint planning cycles, issues will include **T-Shirt Size Estimation** labels to estimate effort and scope before sprint commitment:
+
+| Size | Effort / Scope | Typical Duration |
+| :--- | :--- | :--- |
+| **XS** | Trivial fix, copy change, or minor config adjustment | < 1–2 hours |
+| **S** | Small, self-contained feature, bug fix, or utility component | Half-day |
+| **M** | Standard feature, multi-screen UI flow, or single API endpoint | 1–2 days |
+| **L** | Substantial system feature, database migration, or cross-cutting module | 3–5 days |
+| **XL** | Large architectural epic requiring decomp into smaller subtasks | Full sprint+ |
 
 ---
 
